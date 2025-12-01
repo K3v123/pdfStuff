@@ -4,6 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A collection of small Python scripts for PDF compression, merging, and basic image conversion. Designed for handling sensitive documents with minimal dependencies.
+I used it for merging my cv with academic transcript etc.
 
 ## ⚠️ Critical Disclaimer
 **I AM NOT ACCOUNTABLE FOR ANY DATA LOSS, PRIVACY BREACHES, OR DAMAGES RESULTING FROM THE USE OF THESE TOOLS.**  
